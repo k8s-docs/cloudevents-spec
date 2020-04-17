@@ -1,0 +1,13 @@
+[en]
+  title = "CloudEvents Spec"
+  description = "CloudEvents Spec"
+  contentDir = "content/en"
+  languageName = "English"
+  weight = 2
+
+[zh]
+  title = "CloudEvents Spec"
+  description = "CloudEvents Spec"
+  contentDir = "content/zh"
+  languageName = "中文"
+  weight = 1

@@ -1,0 +1,5 @@
+baseURL = "http://cloudevents-spec.netlify.app"
+languageCode = "en-us"
+title = "CloudEvents Spec"
+theme = "docsy"
+defaultContentLanguage = "zh"

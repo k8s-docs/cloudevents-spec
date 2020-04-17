@@ -1,0 +1,17 @@
+[[main]]
+  name = "document"
+  url = "/docs/"
+  identifier = "docs"
+  weight = 10
+
+[[main]]
+  name = "Office Document"
+  url = "https://pay.weixin.qq.com/wiki/doc/api/sl.html"
+  identifier = "office-document"
+  weight = 30
+
+[[main]]
+  name = "Office Community"
+  url = "https://developers.weixin.qq.com/community/pay"
+  identifier = "office-community"
+  weight = 40
